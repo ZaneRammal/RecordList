@@ -3,7 +3,6 @@
 # in the specified list format, and copies the list to the clipboard.
 
 import logging
-
 import nltk
 import pyperclip
 import speech_recognition as sr
